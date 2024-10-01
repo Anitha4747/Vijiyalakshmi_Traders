@@ -1,7 +1,3 @@
-Here’s a description you can use for your **Vijayalaxshmi Traders Billing System** project on GitHub:
-
----
-
 ### Vijayalaxshmi Traders Billing System
 
 **Description:**
