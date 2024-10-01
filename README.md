@@ -34,7 +34,7 @@ This is a Python-based billing system built using the `Tkinter` library. The app
 **Screenshot:**
 
 ![Screenshot 2024-10-01 102138](https://github.com/user-attachments/assets/642200b2-10bd-461e-8f43-9a49001799b7)
-![Screenshot 2024-10-01 105311] ()
+![Screenshot 2024-10-01 105311](https://github.com/Anitha4747/Vijiyalakshmi_Traders/blob/2fd60220b84c8618313aba89bdf52825b10ce26d/Screenshot%202024-10-01%20105311.png)
 
 **Future Enhancements:**
 - Add more items or customize prices.
