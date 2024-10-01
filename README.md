@@ -32,7 +32,10 @@ This is a Python-based billing system built using the `Tkinter` library. The app
 - A window will appear where users can input quantities and calculate the total bill.
 
 **Screenshot:**
-_(Insert a screenshot of the interface here.)_
+
+![Screenshot 2024-10-01 102138](https://github.com/user-attachments/assets/642200b2-10bd-461e-8f43-9a49001799b7)
+
+![Screenshot 2024-10-01 102642](https://github.com/user-attachments/assets/2e88d7ef-4e32-4b71-8f93-18016bb7a3b1)
 
 **Future Enhancements:**
 - Add more items or customize prices.
